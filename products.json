@@ -1,0 +1,38 @@
+[
+    {
+        "id": "e3c16071-3b75-4bb9-b76f-b758c5655d06",
+        "name": "haha",
+        "model": "heheg",
+        "status": "using"
+    },
+    {
+        "id": "dc059096-9d79-4b2b-993b-bcbd653d732c",
+        "name": "abc",
+        "model": "def",
+        "status": "using"
+    },
+    {
+        "id": "104b07ad-63b3-4ac4-9a37-c0108f55e02d",
+        "name": "hege",
+        "model": "mama",
+        "status": "scrapped"
+    },
+    {
+        "id": "00f2a50e-77a3-4752-b17c-93d7819a4e2e",
+        "name": "abcde",
+        "model": "ffff",
+        "status": "init"
+    },
+    {
+        "id": "6bb923d0-2441-42e5-aecd-a7f244f80ba1",
+        "name": "abc",
+        "model": "ddd",
+        "status": "init"
+    },
+    {
+        "id": "50503008-1cea-47c7-b46b-5aaa9dfc1da8",
+        "name": "abcdd",
+        "model": "ghijj",
+        "status": "using"
+    }
+]
